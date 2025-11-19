@@ -17,4 +17,5 @@ document.body.onclick=()=>{
 };
 tooltip.onclick=(e)=>{
     e.stopPropagation();
+
 };
